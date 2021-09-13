@@ -46,18 +46,7 @@ function piscarLampada(){
      idInterval = setInterval (trocarImagem,1000); // setInterval -> executa uma funcção varias vezes
 }
 
-// function pisca(){
-    
-//     for(let i=0; i<=length; i++){
 
-//         if(ligarLampada){
-//             lampada.src ="img/ligada.jpg";
-//         }
-      
-        
-//     }
-    
-// }
 
 
 function desligarLampada(evento){
